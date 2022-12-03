@@ -1,2 +1,1 @@
-# fitness-club
-short project on olympia gym
+about by 
